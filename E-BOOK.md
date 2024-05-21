@@ -16,5 +16,5 @@ Utilizei o "Copilot" para criação de imagens do ebook
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente, demonstrando como as IAs Generativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/AdryanAndson/Ebook_ia_na_modernidade/blob/main/Ia%20na%20Modernidade.pdf)
 
