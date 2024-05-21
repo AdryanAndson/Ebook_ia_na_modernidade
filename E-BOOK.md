@@ -1,7 +1,7 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Ia na modernidade 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 5 paginas exemplifica um pouco sobre as inteligencia artificias no mundo atual
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
@@ -16,5 +16,4 @@ O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como
 
 [LINK PARA O E-BOOK AQUI]()
 
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+
